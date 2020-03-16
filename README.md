@@ -27,7 +27,7 @@ https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 
 
 ## 免费账号虽好，但是终归不稳定，速度优先，如有需求建议自行购买
-## 推荐购买链接  
+## 推荐购买链接  （如没有翻墙请先使用免费账号并开启全局模式后访问购买）
 http://suo.im/5N3nnz  
 http://cp.dawangidc.com/aff.php?aff=2990
 
