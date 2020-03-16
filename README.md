@@ -17,23 +17,11 @@ https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 
 # 免费账号
 #### 账号1: 
-账号: 162.245.239.68  
-端口: 777  
-密码: ntdtv.com  
-加密规则: rc4  
-协议: origin  
-混淆: plain  
 ![Image](https://github.com/ly8388/img/blob/master/2020-03-16-1%402x.png)  
 
 
 
 #### 账号2: 
-账号: 45.89.230.99  
-端口: 34561  
-密码: dongtaiwang.com  
-加密规则: rc4  
-协议: origin  
-混淆: plain  
 ![Image](https://github.com/ly8388/img/blob/master/2020-03-16-2.png)  
 
 
