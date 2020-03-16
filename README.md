@@ -1,6 +1,6 @@
-#翻墙教程
-#准备工具
-####Shadowsocks
+# 翻墙教程
+# 准备工具
+#### Shadowsocks
 1. Windows客户端下载地址：（两者均可）
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/tag/4.8.0
@@ -15,8 +15,8 @@ https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 
 5. iOS/iPad/苹果客户端我目前用的是Wingy & Shadowrocket，支持ssr，可以通过PP助手去下载，当然你可以直接去申请一个美国App Store，然后去美区下载。
 
-#免费账号
-####账号1: 
+# 免费账号
+#### 账号1: 
 账号: 162.245.239.68  
 端口: 777  
 密码: ntdtv.com  
@@ -27,7 +27,7 @@ https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 
 
 
-####账号2: 
+#### 账号2: 
 账号: 45.89.230.99  
 端口: 34561  
 密码: dongtaiwang.com  
@@ -38,8 +38,8 @@ https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 
 
 
-##免费账号虽好，但是终归不稳定，速度优先，如有需求建议自行购买
-##推荐购买链接  
+## 免费账号虽好，但是终归不稳定，速度优先，如有需求建议自行购买
+## 推荐购买链接  
 http://suo.im/5N3nnz  
 http://cp.dawangidc.com/aff.php?aff=2990
 
