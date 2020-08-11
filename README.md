@@ -15,14 +15,47 @@ https://github.com/qinyuhang/ShadowsocksX-NG-R/releases
 
 5. iOS/iPad/苹果客户端我目前用的是Wingy & Shadowrocket，支持ssr，可以通过PP助手去下载，当然你可以直接去申请一个美国App Store，然后去美区下载。
 
-# 免费账号
-#### 账号1: 图片格式防封 防爬虫
-![Image](https://github.com/ly8388/img/blob/master/2020-03-16-1%402x.png)  
+SSR账号（洛杉矶）
 
+IP：67.21.94.231
 
+端口：2333
 
-#### 账号2: 图片格式防封 防爬虫
-![Image](https://github.com/ly8388/img/blob/master/2020-03-16-2.png)  
+密码：bannedbook.org 001
+
+加密方式：RC4
+
+协议：origin
+
+混淆：plain
+
+SSR账号（俄罗斯）
+
+IP：185.22.152.180
+
+端口：12345
+
+密码： epochtimes.com 123abc
+
+加密方式：RC4
+
+协议：origin
+
+混淆：plain
+
+SSR账号(日本)
+
+IP：5.180.76.58
+
+端口：11335
+
+密码： dongtaiwang.com 123abc
+
+加密方式：RC4
+
+协议：origin
+
+混淆：plain
 
 
 
